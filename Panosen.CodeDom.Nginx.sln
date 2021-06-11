@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Panosen.CodeDom.Nginx", "Panosen.CodeDom.Nginx\Panosen.CodeDom.Nginx.csproj", "{2E3AD8F6-E7B4-4709-8211-8B73EAF9E472}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Panosen.CodeDom.Nginx.Engine", "Panosen.CodeDom.Nginx.Engine\Panosen.CodeDom.Nginx.Engine.csproj", "{424DA6A0-E372-43D4-A69A-4DDA27725C7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panosen.CodeDom.Nginx.Engine.MSTest", "Panosen.CodeDom.Nginx.Engine.MSTest\Panosen.CodeDom.Nginx.Engine.MSTest.csproj", "{CC540A15-8E62-4500-A4EE-A850F19AD4EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E3AD8F6-E7B4-4709-8211-8B73EAF9E472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E3AD8F6-E7B4-4709-8211-8B73EAF9E472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E3AD8F6-E7B4-4709-8211-8B73EAF9E472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E3AD8F6-E7B4-4709-8211-8B73EAF9E472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{424DA6A0-E372-43D4-A69A-4DDA27725C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{424DA6A0-E372-43D4-A69A-4DDA27725C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{424DA6A0-E372-43D4-A69A-4DDA27725C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{424DA6A0-E372-43D4-A69A-4DDA27725C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC540A15-8E62-4500-A4EE-A850F19AD4EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC540A15-8E62-4500-A4EE-A850F19AD4EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC540A15-8E62-4500-A4EE-A850F19AD4EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC540A15-8E62-4500-A4EE-A850F19AD4EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE2291D1-D12E-4626-902E-89A0B35C0C92}
+	EndGlobalSection
+EndGlobal
